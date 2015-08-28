@@ -1,2 +1,2 @@
 # opensearch
-Opensearch files for use with browsers
+Opensearch files for use with browsers.
